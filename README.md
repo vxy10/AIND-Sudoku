@@ -4,7 +4,12 @@
 
 
 
-In this project we will go over the solution to solve sudoku using naked-twin strategy. Further we will extend the solution to solve for diagonal sudoku where the diagonals of the board are constraint to have all the numbers between 1 and 9.
+In this project we will go over the solution to solve sudoku using naked-twin strategy. Further we will extend the solution to solve for diagonal sudoku where the diagonals of the board are constraint to have all the numbers between 1 and 9. To test the solution, run 
+
+  python solution_test.py
+
+To test solution, run 
+  python solution.py
 
 [![Diagonal soduku solution using eliminate, naked-twins and only-choice strategy](https://img.youtube.com/vi/yydvSjBucgc/0.jpg)](https://www.youtube.com/watch?v=yydvSjBucgc)
 
